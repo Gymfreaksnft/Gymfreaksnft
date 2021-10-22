@@ -16,6 +16,7 @@
      instagram - @gymfreaksnft |
      twitter - @gymfreaksnft |
      freak-labs.com
+ -   for collaborations contact - gymfreaksnft@gmail.com
 
 <!---
 Gymfreaksnft/Gymfreaksnft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
