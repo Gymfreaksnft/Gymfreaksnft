@@ -1,5 +1,4 @@
 - 👋 Hi, we are @Gymfreaksnft
-- 👀 We are changing the NFT World.
 - 🌱 our collection is based on the crypto and freaks, did you ever thought
      that there was a time when Crypto was only known to the geeks ( no disrepect,
      as only the most intelligent were the first who believed and developed crypto)
@@ -17,6 +16,7 @@
      twitter - @gymfreaksnft |
      freak-labs.com
  -   for collaborations contact - gymfreaksnft@gmail.com
+ - 👀 DO YOU OWN A FREAK?
 
 <!---
 Gymfreaksnft/Gymfreaksnft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
