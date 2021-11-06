@@ -4,7 +4,7 @@
      as only the most intelligent were the first who believed and developed crypto)
      But as the crypto progressed everyone started getting interested in the crypto world,
      and today everyone around us is interested in crypto and nfts.
-     so we started thinking what would happens if the crypto boom was taking place now
+     so we started thinking what would happen if the crypto boom was taking place now
      (in 2021 ), as today many crypto-freaks are gym-freaks and one thing led to another.
      we were thinking how some iconic crypto projects would have changed and this led to
      the development of GYMFREAKSNFT.
