@@ -1,6 +1,6 @@
 - 👋 Hi, we are @Gymfreaksnft
-- 🌱 our collection is based on the crypto and freaks, did you ever thought
-     that there was a time when Crypto was only known to the geeks ( no disrepect,
+- 🌱 our collection is based on the crypto and freaks, did you ever think
+     there was a time when Crypto was only known to the geeks ( no disrepect,
      as only the most intelligent were the first who believed and developed crypto)
      But as the crypto progressed everyone started getting interested in the crypto world,
      and today everyone around us is interested in crypto and nfts.
