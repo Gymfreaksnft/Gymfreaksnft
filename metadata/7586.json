@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7586.png",
+    "tokenId": 7586,
+    "name": "GYM_FREAKS 7586",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Welding Goggles",
+            "rarity": "0.93%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Nerd Glasses",
+            "rarity": "7.2%"
+        }
+    ]
+}

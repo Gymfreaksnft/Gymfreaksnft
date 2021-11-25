@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9717.png",
+    "tokenId": 9717,
+    "name": "GYM_FREAKS 9717",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap Forward",
+            "rarity": "2.88%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Muttonchops",
+            "rarity": "3.91%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

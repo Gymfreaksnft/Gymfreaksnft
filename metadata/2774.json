@@ -1,0 +1,17 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2774.png",
+    "tokenId": 2774,
+    "name": "GYM_FREAKS 2774",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shemagh",
+            "rarity": "0.37%"
+        }
+    ]
+}

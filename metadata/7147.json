@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7147.png",
+    "tokenId": 7147,
+    "name": "GYM_FREAKS 7147",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shaved Head",
+            "rarity": "3.89%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Beard",
+            "rarity": "4.43%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

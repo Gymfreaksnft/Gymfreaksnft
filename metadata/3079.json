@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3079.png",
+    "tokenId": 3079,
+    "name": "GYM_FREAKS 3079",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Alien",
+            "rarity": "0.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frumpy Hair",
+            "rarity": "4.57%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Goat",
+            "rarity": "4.21%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile",
+            "rarity": "3.0%"
+        }
+    ]
+}

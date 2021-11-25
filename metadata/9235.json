@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9235.png",
+    "tokenId": 9235,
+    "name": "GYM_FREAKS 9235",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fedora",
+            "rarity": "2.11%"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Buck Teeth",
+            "rarity": "1.12%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Small Shades",
+            "rarity": "4.42%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Silver Bracelet",
+            "rarity": "3.1%"
+        }
+    ]
+}

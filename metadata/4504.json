@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/4504.png",
+    "tokenId": 4504,
+    "name": "GYM_FREAKS 4504",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap Forward",
+            "rarity": "2.88%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Pipe",
+            "rarity": "4.35%"
+        }
+    ]
+}

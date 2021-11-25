@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5424.png",
+    "tokenId": 5424,
+    "name": "GYM_FREAKS 5424",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat",
+            "rarity": "1.57%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Clownnose",
+            "rarity": "2.55%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Clown Eyes Blue",
+            "rarity": "4.9%"
+        }
+    ]
+}

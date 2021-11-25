@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1626.png",
+    "tokenId": 1626,
+    "name": "GYM_FREAKS 1626",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat",
+            "rarity": "1.87%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Shadow Beard",
+            "rarity": "7.77%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "3D Glasses",
+            "rarity": "3.7%"
+        }
+    ]
+}

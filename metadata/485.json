@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/485.png",
+    "tokenId": 485,
+    "name": "GYM_FREAKS 485",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Police Cap",
+            "rarity": "2.41%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Luxurious Beard",
+            "rarity": "4.12%"
+        }
+    ]
+}

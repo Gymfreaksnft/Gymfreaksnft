@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2758.png",
+    "tokenId": 2758,
+    "name": "GYM_FREAKS 2758",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Alien",
+            "rarity": "0.21%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver",
+            "rarity": "13.57%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shemagh Red-White Check",
+            "rarity": "0.27%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Vape",
+            "rarity": "3.64%"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6917.png",
+    "tokenId": 6917,
+    "name": "GYM_FREAKS 6917",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Stringy Hair",
+            "rarity": "4.6%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Black",
+            "rarity": "2.17%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Horned Rim Glasses",
+            "rarity": "5.99%"
+        }
+    ]
+}

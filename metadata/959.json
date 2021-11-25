@@ -1,0 +1,42 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/959.png",
+    "tokenId": 959,
+    "name": "GYM_FREAKS 959",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Peak Spike",
+            "rarity": "3.38%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Luxurious Beard",
+            "rarity": "4.12%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Frown",
+            "rarity": "3.78%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "VR",
+            "rarity": "4.04%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Silver Bracelet",
+            "rarity": "3.1%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

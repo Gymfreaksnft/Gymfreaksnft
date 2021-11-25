@@ -1,0 +1,17 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6183.png",
+    "tokenId": 6183,
+    "name": "GYM_FREAKS 6183",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beanie",
+            "rarity": "0.65%"
+        }
+    ]
+}

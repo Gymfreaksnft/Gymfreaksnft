@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3940.png",
+    "tokenId": 3940,
+    "name": "GYM_FREAKS 3940",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Clown Hair Green",
+            "rarity": "1.68%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Chain",
+            "rarity": "2.69%"
+        }
+    ]
+}

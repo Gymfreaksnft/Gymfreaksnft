@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6665.png",
+    "tokenId": 6665,
+    "name": "GYM_FREAKS 6665",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat",
+            "rarity": "1.87%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Patch",
+            "rarity": "5.35%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Bracelet",
+            "rarity": "2.34%"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3508.png",
+    "tokenId": 3508,
+    "name": "GYM_FREAKS 3508",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver",
+            "rarity": "13.57%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Big Beard",
+            "rarity": "2.67%"
+        }
+    ]
+}

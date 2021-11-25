@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/8804.png",
+    "tokenId": 8804,
+    "name": "GYM_FREAKS 8804",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard Dark",
+            "rarity": "3.77%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Horned Rim Glasses",
+            "rarity": "5.99%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Silver Chain",
+            "rarity": "1.94%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

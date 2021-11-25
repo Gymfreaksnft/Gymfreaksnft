@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5942.png",
+    "tokenId": 5942,
+    "name": "GYM_FREAKS 5942",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frumpy Hair",
+            "rarity": "4.57%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Shadow Beard",
+            "rarity": "7.77%"
+        }
+    ]
+}

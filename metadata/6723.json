@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6723.png",
+    "tokenId": 6723,
+    "name": "GYM_FREAKS 6723",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Muttonchops",
+            "rarity": "3.91%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Frown",
+            "rarity": "3.78%"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7958.png",
+    "tokenId": 7958,
+    "name": "GYM_FREAKS 7958",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Crazy Hair",
+            "rarity": "3.98%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Nerd Glasses",
+            "rarity": "7.2%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Bracelet",
+            "rarity": "2.34%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/689.png",
+    "tokenId": 689,
+    "name": "GYM_FREAKS 689",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Pipe",
+            "rarity": "4.35%"
+        }
+    ]
+}

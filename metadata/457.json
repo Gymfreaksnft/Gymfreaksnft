@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/457.png",
+    "tokenId": 457,
+    "name": "GYM_FREAKS 457",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bandana",
+            "rarity": "4.51%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Red",
+            "rarity": "2.61%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Frown",
+            "rarity": "3.78%"
+        }
+    ]
+}

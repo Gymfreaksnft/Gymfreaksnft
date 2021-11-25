@@ -1,0 +1,37 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/4170.png",
+    "tokenId": 4170,
+    "name": "GYM_FREAKS 4170",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Peak Spike",
+            "rarity": "3.38%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard Dark",
+            "rarity": "3.77%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Frown",
+            "rarity": "3.78%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Bracelet",
+            "rarity": "2.34%"
+        }
+    ]
+}

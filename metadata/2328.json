@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2328.png",
+    "tokenId": 2328,
+    "name": "GYM_FREAKS 2328",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Vampire Hair",
+            "rarity": "1.67%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Black Beard",
+            "rarity": "4.04%"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/895.png",
+    "tokenId": 895,
+    "name": "GYM_FREAKS 895",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Thin",
+            "rarity": "4.4%"
+        }
+    ]
+}

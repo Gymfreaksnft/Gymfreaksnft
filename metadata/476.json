@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/476.png",
+    "tokenId": 476,
+    "name": "GYM_FREAKS 476",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Wild Hair",
+            "rarity": "4.55%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard",
+            "rarity": "3.81%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "3D Glasses",
+            "rarity": "3.7%"
+        }
+    ]
+}

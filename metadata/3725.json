@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3725.png",
+    "tokenId": 3725,
+    "name": "GYM_FREAKS 3725",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bandana",
+            "rarity": "4.51%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Big Shades",
+            "rarity": "6.5%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Spots",
+            "rarity": "1.92%"
+        }
+    ]
+}

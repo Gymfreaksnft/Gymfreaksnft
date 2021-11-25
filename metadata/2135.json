@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2135.png",
+    "tokenId": 2135,
+    "name": "GYM_FREAKS 2135",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Clown Hair Green",
+            "rarity": "1.68%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Regular Shades",
+            "rarity": "6.17%"
+        }
+    ]
+}

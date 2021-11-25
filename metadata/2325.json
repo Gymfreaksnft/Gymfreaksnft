@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2325.png",
+    "tokenId": 2325,
+    "name": "GYM_FREAKS 2325",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap Forward",
+            "rarity": "2.88%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Classic Shades",
+            "rarity": "5.82%"
+        }
+    ]
+}

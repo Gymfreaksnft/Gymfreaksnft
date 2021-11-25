@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1336.png",
+    "tokenId": 1336,
+    "name": "GYM_FREAKS 1336",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Vampire Hair",
+            "rarity": "1.67%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "3D Glasses",
+            "rarity": "3.7%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Spots",
+            "rarity": "1.92%"
+        }
+    ]
+}

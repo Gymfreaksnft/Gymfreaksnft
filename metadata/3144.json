@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3144.png",
+    "tokenId": 3144,
+    "name": "GYM_FREAKS 3144",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk",
+            "rarity": "4.84%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Mustache",
+            "rarity": "4.61%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Pipe",
+            "rarity": "4.35%"
+        }
+    ]
+}

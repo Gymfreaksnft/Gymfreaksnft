@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6565.png",
+    "tokenId": 6565,
+    "name": "GYM_FREAKS 6565",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gym Cap",
+            "rarity": "2.72%"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Buck Teeth",
+            "rarity": "1.12%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Classic Shades",
+            "rarity": "5.82%"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7462.png",
+    "tokenId": 7462,
+    "name": "GYM_FREAKS 7462",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap",
+            "rarity": "3.67%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Shadow Beard",
+            "rarity": "7.77%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Horned Rim Glasses",
+            "rarity": "5.99%"
+        }
+    ]
+}

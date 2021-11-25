@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9269.png",
+    "tokenId": 9269,
+    "name": "GYM_FREAKS 9269",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Do-rag",
+            "rarity": "3.19%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Big Shades",
+            "rarity": "6.5%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/633.png",
+    "tokenId": 633,
+    "name": "GYM_FREAKS 633",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver",
+            "rarity": "13.57%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Wild Hair",
+            "rarity": "4.55%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Muttonchops",
+            "rarity": "3.91%"
+        }
+    ]
+}

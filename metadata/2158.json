@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2158.png",
+    "tokenId": 2158,
+    "name": "GYM_FREAKS 2158",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Knitted Cap",
+            "rarity": "4.05%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard Dark",
+            "rarity": "3.77%"
+        }
+    ]
+}

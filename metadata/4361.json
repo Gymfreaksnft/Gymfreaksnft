@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/4361.png",
+    "tokenId": 4361,
+    "name": "GYM_FREAKS 4361",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fedora",
+            "rarity": "2.11%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Mask",
+            "rarity": "3.85%"
+        }
+    ]
+}

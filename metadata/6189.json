@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6189.png",
+    "tokenId": 6189,
+    "name": "GYM_FREAKS 6189",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Headband",
+            "rarity": "4.36%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Goat",
+            "rarity": "4.21%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Vape",
+            "rarity": "3.64%"
+        }
+    ]
+}

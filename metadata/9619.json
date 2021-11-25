@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9619.png",
+    "tokenId": 9619,
+    "name": "GYM_FREAKS 9619",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Top Hat",
+            "rarity": "1.57%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Classic Shades",
+            "rarity": "5.82%"
+        }
+    ]
+}

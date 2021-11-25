@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1669.png",
+    "tokenId": 1669,
+    "name": "GYM_FREAKS 1669",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bandana",
+            "rarity": "4.51%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rosy Cheeks",
+            "rarity": "1.91%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Nerd Glasses",
+            "rarity": "7.2%"
+        }
+    ]
+}

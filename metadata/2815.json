@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2815.png",
+    "tokenId": 2815,
+    "name": "GYM_FREAKS 2815",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Vampire Hair",
+            "rarity": "1.67%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Luxurious Beard",
+            "rarity": "4.12%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Nerd Glasses",
+            "rarity": "7.2%"
+        }
+    ]
+}

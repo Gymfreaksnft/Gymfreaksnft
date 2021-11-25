@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6207.png",
+    "tokenId": 6207,
+    "name": "GYM_FREAKS 6207",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Crazy Hair",
+            "rarity": "3.98%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Black Beard",
+            "rarity": "4.04%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Clown Eyes Blue",
+            "rarity": "4.9%"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9102.png",
+    "tokenId": 9102,
+    "name": "GYM_FREAKS 9102",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat",
+            "rarity": "1.87%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Black Beard",
+            "rarity": "4.04%"
+        }
+    ]
+}

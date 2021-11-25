@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7676.png",
+    "tokenId": 7676,
+    "name": "GYM_FREAKS 7676",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Bandana",
+            "rarity": "4.51%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Muttonchops",
+            "rarity": "3.91%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Patch",
+            "rarity": "5.35%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Spots",
+            "rarity": "1.92%"
+        }
+    ]
+}

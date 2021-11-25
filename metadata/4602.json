@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/4602.png",
+    "tokenId": 4602,
+    "name": "GYM_FREAKS 4602",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Big Beard",
+            "rarity": "2.67%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "3D Glasses",
+            "rarity": "3.7%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

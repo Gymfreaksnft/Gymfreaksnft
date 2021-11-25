@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/8623.png",
+    "tokenId": 8623,
+    "name": "GYM_FREAKS 8623",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Silver",
+            "rarity": "13.57%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Peak Spike",
+            "rarity": "3.38%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile",
+            "rarity": "3.0%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Horned Rim Glasses",
+            "rarity": "5.99%"
+        }
+    ]
+}

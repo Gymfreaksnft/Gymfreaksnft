@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5816.png",
+    "tokenId": 5816,
+    "name": "GYM_FREAKS 5816",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk",
+            "rarity": "4.84%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Big Beard",
+            "rarity": "2.67%"
+        }
+    ]
+}

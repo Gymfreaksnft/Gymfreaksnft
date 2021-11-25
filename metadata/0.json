@@ -1,0 +1,17 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/0.png",
+    "tokenId": 0,
+    "name": "GYM_FREAKS 0",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Dark",
+            "rarity": "4.66%"
+        }
+    ]
+}

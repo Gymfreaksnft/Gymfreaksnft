@@ -1,0 +1,37 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/418.png",
+    "tokenId": 418,
+    "name": "GYM_FREAKS 418",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shaved Head",
+            "rarity": "3.89%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Clownnose",
+            "rarity": "2.55%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Shadow Beard",
+            "rarity": "7.77%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Classic Shades",
+            "rarity": "5.82%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Bracelet",
+            "rarity": "2.34%"
+        }
+    ]
+}

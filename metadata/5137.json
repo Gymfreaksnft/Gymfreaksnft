@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5137.png",
+    "tokenId": 5137,
+    "name": "GYM_FREAKS 5137",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Black",
+            "rarity": "2.17%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Muttonchops",
+            "rarity": "3.91%"
+        }
+    ]
+}

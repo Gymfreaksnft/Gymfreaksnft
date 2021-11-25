@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/549.png",
+    "tokenId": 549,
+    "name": "GYM_FREAKS 549",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Turban Red",
+            "rarity": "0.24%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Big Beard",
+            "rarity": "2.67%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Clown Eyes Green",
+            "rarity": "4.61%"
+        }
+    ]
+}

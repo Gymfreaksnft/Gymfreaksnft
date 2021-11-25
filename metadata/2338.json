@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2338.png",
+    "tokenId": 2338,
+    "name": "GYM_FREAKS 2338",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap Forward",
+            "rarity": "2.88%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rosy Cheeks",
+            "rarity": "1.91%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Clown Eyes Green",
+            "rarity": "4.61%"
+        }
+    ]
+}

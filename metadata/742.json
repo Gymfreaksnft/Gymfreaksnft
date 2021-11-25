@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/742.png",
+    "tokenId": 742,
+    "name": "GYM_FREAKS 742",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Stringy Hair",
+            "rarity": "4.6%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard Dark",
+            "rarity": "3.77%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rosy Cheeks",
+            "rarity": "1.91%"
+        }
+    ]
+}

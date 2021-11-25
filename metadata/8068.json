@@ -1,0 +1,37 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/8068.png",
+    "tokenId": 8068,
+    "name": "GYM_FREAKS 8068",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Headband",
+            "rarity": "4.36%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Goat",
+            "rarity": "4.21%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Rosy Cheeks",
+            "rarity": "1.91%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Silver Chain",
+            "rarity": "1.94%"
+        }
+    ]
+}

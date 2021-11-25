@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2297.png",
+    "tokenId": 2297,
+    "name": "GYM_FREAKS 2297",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Dark",
+            "rarity": "4.66%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard",
+            "rarity": "3.81%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Chain",
+            "rarity": "2.69%"
+        }
+    ]
+}

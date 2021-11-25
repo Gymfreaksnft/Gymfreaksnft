@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5063.png",
+    "tokenId": 5063,
+    "name": "GYM_FREAKS 5063",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Red",
+            "rarity": "2.61%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Luxurious Beard",
+            "rarity": "4.12%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Clown Eyes Blue",
+            "rarity": "4.9%"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9570.png",
+    "tokenId": 9570,
+    "name": "GYM_FREAKS 9570",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cap Forward",
+            "rarity": "2.88%"
+        },
+        {
+            "trait_type": "Marks",
+            "value": "Mole",
+            "rarity": "8.76%"
+        }
+    ]
+}

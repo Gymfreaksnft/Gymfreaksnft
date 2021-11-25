@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7150.png",
+    "tokenId": 7150,
+    "name": "GYM_FREAKS 7150",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Thin",
+            "rarity": "4.4%"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Frown",
+            "rarity": "3.78%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Patch",
+            "rarity": "5.35%"
+        }
+    ]
+}

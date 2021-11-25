@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5376.png",
+    "tokenId": 5376,
+    "name": "GYM_FREAKS 5376",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk",
+            "rarity": "4.84%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Black Beard",
+            "rarity": "4.04%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Medical Mask",
+            "rarity": "3.91%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Patch",
+            "rarity": "5.35%"
+        }
+    ]
+}

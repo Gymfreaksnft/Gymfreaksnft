@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9044.png",
+    "tokenId": 9044,
+    "name": "GYM_FREAKS 9044",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Earring",
+            "value": "Gold",
+            "rarity": "16.31%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Dark",
+            "rarity": "4.66%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Goat",
+            "rarity": "4.21%"
+        }
+    ]
+}

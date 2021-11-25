@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2144.png",
+    "tokenId": 2144,
+    "name": "GYM_FREAKS 2144",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Vampire Hair",
+            "rarity": "1.67%"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Buck Teeth",
+            "rarity": "1.12%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        }
+    ]
+}

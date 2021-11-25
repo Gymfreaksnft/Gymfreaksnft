@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2811.png",
+    "tokenId": 2811,
+    "name": "GYM_FREAKS 2811",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Do-rag",
+            "rarity": "3.19%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Red",
+            "rarity": "2.61%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Classic Shades",
+            "rarity": "5.82%"
+        }
+    ]
+}

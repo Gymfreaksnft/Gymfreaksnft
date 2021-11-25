@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/8003.png",
+    "tokenId": 8003,
+    "name": "GYM_FREAKS 8003",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Welding Goggles",
+            "rarity": "0.93%"
+        },
+        {
+            "trait_type": "Extra_Acessory",
+            "value": "Wristband Black",
+            "rarity": "2.17%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Patch",
+            "rarity": "5.35%"
+        }
+    ]
+}

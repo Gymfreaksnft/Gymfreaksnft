@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/6434.png",
+    "tokenId": 6434,
+    "name": "GYM_FREAKS 6434",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Do-rag",
+            "rarity": "3.19%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Small Shades",
+            "rarity": "4.42%"
+        }
+    ]
+}

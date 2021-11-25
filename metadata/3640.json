@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/3640.png",
+    "tokenId": 3640,
+    "name": "GYM_FREAKS 3640",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Knitted Cap",
+            "rarity": "4.05%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Chinstrap",
+            "rarity": "3.63%"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9107.png",
+    "tokenId": 9107,
+    "name": "GYM_FREAKS 9107",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Messy Hair",
+            "rarity": "4.46%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Handlebars",
+            "rarity": "4.16%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Cigaratte",
+            "rarity": "12.6%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "VR",
+            "rarity": "4.04%"
+        }
+    ]
+}

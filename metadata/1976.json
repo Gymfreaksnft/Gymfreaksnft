@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1976.png",
+    "tokenId": 1976,
+    "name": "GYM_FREAKS 1976",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beanie",
+            "rarity": "0.65%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Small Shades",
+            "rarity": "4.42%"
+        }
+    ]
+}

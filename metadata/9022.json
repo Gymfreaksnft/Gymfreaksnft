@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/9022.png",
+    "tokenId": 9022,
+    "name": "GYM_FREAKS 9022",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Turban Blue",
+            "rarity": "0.25%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Beard",
+            "rarity": "4.43%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Bracelet",
+            "rarity": "2.34%"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/7603.png",
+    "tokenId": 7603,
+    "name": "GYM_FREAKS 7603",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Gym Cap",
+            "rarity": "2.72%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Big Beard",
+            "rarity": "2.67%"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Buck Teeth",
+            "rarity": "1.12%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Regular Shades",
+            "rarity": "6.17%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Silver Chain",
+            "rarity": "1.94%"
+        }
+    ]
+}

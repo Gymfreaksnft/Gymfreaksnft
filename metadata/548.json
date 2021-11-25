@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/548.png",
+    "tokenId": 548,
+    "name": "GYM_FREAKS 548",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Black Beard",
+            "rarity": "4.04%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Chain",
+            "rarity": "2.69%"
+        }
+    ]
+}

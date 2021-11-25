@@ -1,0 +1,32 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5556.png",
+    "tokenId": 5556,
+    "name": "GYM_FREAKS 5556",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Zombie",
+            "rarity": "1.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Shaved Head",
+            "rarity": "3.89%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Handlebars",
+            "rarity": "4.16%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Big Shades",
+            "rarity": "6.5%"
+        },
+        {
+            "trait_type": "Chains",
+            "value": "Gold Chain",
+            "rarity": "2.69%"
+        }
+    ]
+}

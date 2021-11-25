@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/5316.png",
+    "tokenId": 5316,
+    "name": "GYM_FREAKS 5316",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 3",
+            "rarity": "22.48%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Dark",
+            "rarity": "4.66%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Chinstrap",
+            "rarity": "3.63%"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1137.png",
+    "tokenId": 1137,
+    "name": "GYM_FREAKS 1137",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Alien",
+            "rarity": "0.21%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Stringy Hair",
+            "rarity": "4.6%"
+        }
+    ]
+}

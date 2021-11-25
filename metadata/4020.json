@@ -1,0 +1,27 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/4020.png",
+    "tokenId": 4020,
+    "name": "GYM_FREAKS 4020",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Keffiyeh",
+            "rarity": "0.17%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Front Beard",
+            "rarity": "3.81%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Vape",
+            "rarity": "3.64%"
+        }
+    ]
+}

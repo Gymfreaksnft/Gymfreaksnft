@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/1814.png",
+    "tokenId": 1814,
+    "name": "GYM_FREAKS 1814",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 2",
+            "rarity": "22.22%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Mohawk Dark",
+            "rarity": "4.66%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Mask",
+            "rarity": "3.85%"
+        }
+    ]
+}

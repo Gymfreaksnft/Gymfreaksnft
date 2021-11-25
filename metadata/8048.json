@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/8048.png",
+    "tokenId": 8048,
+    "name": "GYM_FREAKS 8048",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Turban Blue",
+            "rarity": "0.25%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Normal Beard",
+            "rarity": "4.43%"
+        }
+    ]
+}

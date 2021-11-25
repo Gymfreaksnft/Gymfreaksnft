@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/766.png",
+    "tokenId": 766,
+    "name": "GYM_FREAKS 766",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 4",
+            "rarity": "24.8%"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Police Cap",
+            "rarity": "2.41%"
+        },
+        {
+            "trait_type": "Beard",
+            "value": "Handlebars",
+            "rarity": "4.16%"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://ipfs.io/ipfs/QmPGJu1i2MmzUwTk6VbqdWwuwy64D13BRKXxYRsMhKmjEM/2206.png",
+    "tokenId": 2206,
+    "name": "GYM_FREAKS 2206",
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Skin 1",
+            "rarity": "29.08%"
+        },
+        {
+            "trait_type": "Mouth_Acessory",
+            "value": "Vape",
+            "rarity": "3.64%"
+        },
+        {
+            "trait_type": "Eye_Acessory",
+            "value": "Eye Mask",
+            "rarity": "3.85%"
+        }
+    ]
+}
